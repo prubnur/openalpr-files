@@ -40,8 +40,6 @@ After the installing the opensource version of Openalpr. Clone this openalpr_lic
 ```
 # Clone the latest code from Github
 
-git clone https://github.com/abhishekworkspace/openalpr_lic
-
 # Copy the contents of this repository
 For example, the following output is created by analyzing this image: 
 ```
